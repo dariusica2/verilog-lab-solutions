@@ -1,2 +1,3 @@
-# verilog-lab-solutions
-mibulls sailcloth blindsight lifeline anan rectipetality faultlessly offered scleromalacia neighed catholicate
+# SOC Lab Solutions
+
+Verilog code implementations for laboratory tasks
